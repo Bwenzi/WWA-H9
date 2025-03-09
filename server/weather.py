@@ -95,4 +95,4 @@ def get_theme():
 
 def main():
     update_data()
-    app.run(port=5048)
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 10000)))
