@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 28.2871,
+        "lat": -15.4067
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 17.26,
+        "feels_like": 17.57,
+        "temp_min": 17.26,
+        "temp_max": 17.26,
+        "pressure": 1014,
+        "humidity": 97,
+        "sea_level": 1014,
+        "grnd_level": 875
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.73,
+        "deg": 94,
+        "gust": 8.92
+    },
+    "clouds": {
+        "all": 38
+    },
+    "dt": 1741467266,
+    "sys": {
+        "country": "ZM",
+        "sunrise": 1741406937,
+        "sunset": 1741451195
+    },
+    "timezone": 7200,
+    "id": 909137,
+    "name": "Lusaka",
+    "cod": 200
+}
