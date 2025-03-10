@@ -23,6 +23,6 @@ Async function City(name){
 ```
 # Theme
 The themes apparently are not available but soon will be.
-thank ypu for checking out my project!!
+thank you for checking out my project!!
 
 
